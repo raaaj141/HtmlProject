@@ -1,0 +1,59 @@
+*{
+    padding:0;
+    margin:0;
+    font-family:sans-serif;
+}
+
+body{
+    background-image:url(file:///C:/Users/gokul/OneDrive/Desktop/project1/orsrc45033.jpg);
+
+}
+
+.login-Page{
+    width: 350px;
+    height: 400px;
+    background:#000;
+    top:50%;
+    left:50%;
+    position: absolute;
+    transform: translate(-50%,-50%)
+    box-sizing: border-box;
+}
+
+
+.login-Page{
+    width:350px;
+    top:50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    position: absolute;
+    color: rgb(175, 42, 67);
+}  
+
+.login-Page h1{
+    font-size:40px;
+    text-align: center;
+    text-transform: uppercase;
+    margin: 40px 0;
+}
+.login-Page p{
+    font-size: 20px;
+    margin:15px 0;
+}
+.login-Page input {
+    font-size: 16px;file:///C:/Users/prath/OneDrive/Desktop/project/kabbide.jpg
+    width: 100%;
+    padding: 15px 10px;
+    border: 0;
+    outline: none;
+    border-radius: 5px;
+}
+.login-Page button{
+    font-size: 18px;
+    font-weight: bold;
+    margin: 20px 0;
+    padding: 10px 15px;
+    width: 50%;
+    border-radius: 5px;
+    color:blue;
+} 
